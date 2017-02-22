@@ -6,4 +6,4 @@ In the 1_notmnist.ipynb, I download the data form the net, and do some precessin
 .pickle files separately, from A to J, and then store the whole data in a .pickle file. And dividing the data into three parts: 
 training data, validation data, testing data.
 And in the final, I used the LogisticRegression classifier on the dataset.
-![image text](https://github.com/BlackLee68/not_MNIST/blob/master/img_folder/huiyuan.jpg)
+![image text]()
