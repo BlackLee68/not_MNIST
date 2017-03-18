@@ -18,3 +18,4 @@ the network. In the final, I added L2 regularization and multiple layers into th
 In this section, I used the convolution network, when I used two convolutions and two max_pooling layers in the network, I got 
 96.3% accuracy at end. Notice: the results in the 4_convolutions.ipynb is under the condition that I set the num_steps=1000, 
 we can see we can still got a accuracy of 91.8%.
+notMNIST
